@@ -18,6 +18,10 @@ public class Main {
 //        Company newCompany = new Company();
 //        newCompany.setWorkerOnIndex(0);
 //        newCompany.writeWorkers();
+//    Liczba l1 = new Liczba("90");
+//    System.out.println(l1.toString());
+//    l1.multiply(7);
+//        
     }
 
 }
